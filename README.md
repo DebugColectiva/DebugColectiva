@@ -99,8 +99,8 @@ Necesitas **ganas de aprender y de no hacerlo sola**.
 Este es un espacio **abierto, cuidado y sin competencia**.  
 Puedes sumarte desde donde estés y con el tiempo que tengas.
 
-📩 Escríbenos a nuestro [Linkedin](https://www.linkedin.com/company/debug-colectiva/)
-📣 Próximamente nuestro programa para universidades públicas 
+- 📩 Escríbenos a nuestro [Linkedin](https://www.linkedin.com/company/debug-colectiva/)
+- 📣 Próximamente nuestro programa para universidades públicas. 
 
 ---
 
@@ -119,8 +119,8 @@ Agradecemos a quiénes nos acompañaron en el primer piloto y formaron parte de 
 
 ## 📚 Recursos
 
-- Guía introductoria para subir tus proyectos a GitHub
-- Guía de Networking por Ioana Gallo (próximamente)
+- [Guía introductoria para subir tus proyectos a GitHub](https://github.com/DebugColectiva/Gu-a_Introductoria_GitHub)
+- [Guía de Networking por Ioana Gallo](#)
 
 ---
 
