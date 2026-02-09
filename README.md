@@ -1,5 +1,7 @@
 # 🐞 Debug Colectiva
 
+![Portada Debug Colectiva](assets/portada_debug_colectiva.png)
+
 **Debug Colectiva** es una **iniciativa y comunidad** que busca **visibilizar, documentar y fortalecer** el trabajo de mujeres profesionales y estudiantes de **Ciencias Sociales**, especialmente aquellas que desarrollan **investigación aplicada en contextos reales**, desde enfoques **cuantitativos, cualitativos y mixtos**.
 
 Promovemos la visibilidad de procesos que muchas veces quedan detrás de escena, como:
@@ -120,7 +122,7 @@ Agradecemos a quiénes nos acompañaron en el primer piloto y formaron parte de 
 ## 📚 Recursos
 
 - [Guía introductoria para subir tus proyectos a GitHub](https://github.com/DebugColectiva/Gu-a_Introductoria_GitHub)
-- [Guía de Networking por Ioana Gallo](#)
+- [Guía de Networking por Ioanna Gallo](#)
 
 ---
 
