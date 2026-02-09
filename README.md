@@ -103,7 +103,6 @@ Actualmente nuestra organización está conformada por:
 - [Estelita Landa](https://www.linkedin.com/in/estelita-landa-oliva-43167b385/)
 - [Rocsana Cubeños](https://www.linkedin.com/in/yeny-rocsana-cube%C3%B1os-l%C3%B3pez-b60315230/)
 - [Rosa Rojas](https://www.linkedin.com/in/rosa-angela-rojas-huaman/)
-
 Agradecemos a quiénes nos acompañaron en el primer piloto y formaron parte de nuestra historia: [Susana Chang](https://www.linkedin.com/in/susana-chang-97697424/), [Melissa Navarro](https://www.linkedin.com/in/melissanavarroreyes/), [Sarita Cusi](https://www.linkedin.com/in/sarita-cusi-a9ab59139/), [Emily Saavedra](https://www.linkedin.com/in/emily-saave-dra/) y [Lesly Flores](https://www.linkedin.com/in/lesly-flores-008232114/).
 ---
 
