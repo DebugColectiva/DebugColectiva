@@ -1,6 +1,6 @@
 # 🐞 Debug Colectiva
 
-![Portada Debug Colectiva](assets/portada_debug_colectiva.png)
+![Portada Debug Colectiva](portada_debug_colectiva.png)
 
 **Debug Colectiva** es una **iniciativa y comunidad** que busca **visibilizar, documentar y fortalecer** el trabajo de mujeres profesionales y estudiantes de **Ciencias Sociales**, especialmente aquellas que desarrollan **investigación aplicada en contextos reales**, desde enfoques **cuantitativos, cualitativos y mixtos**.
 
