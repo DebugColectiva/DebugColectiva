@@ -1,13 +1,24 @@
 # 🐞 Debug Colectiva
 
-**Debug Colectiva** es una comunidad de mujeres profesionales y estudiantes de **Ciencias Sociales** que trabajan —o quieren empezar a trabajar— con **datos, programación, investigación aplicada y herramientas digitales abiertas**, y que buscan **acompañamiento, confianza y pertenencia** al momento de mostrar su trabajo en espacios como GitHub.
+**Debug Colectiva** es una **iniciativa y comunidad** que busca **visibilizar, documentar y fortalecer** el trabajo de mujeres profesionales y estudiantes de **Ciencias Sociales**, especialmente aquellas que desarrollan **investigación aplicada en contextos reales**, desde enfoques **cuantitativos, cualitativos y mixtos**.
 
-Sabemos que no siempre es fácil exponerse:  
-la falta de tiempo, el miedo al juicio, las dudas sobre el valor de lo que hacemos o las barreras institucionales muchas veces nos empujan al silencio.
+Promovemos la visibilidad de procesos que muchas veces quedan detrás de escena, como:
+- análisis de datos,
+- programación,
+- trabajo de campo,
+- diseño metodológico,
+- investigación cualitativa,
+- y producción de conocimiento aplicado.
 
-Por eso, **Debug Colectiva no es solo un espacio técnico**.  
-Es una **red de cuidado, aprendizaje compartido y visibilidad colectiva**.
+Lo hacemos usando plataformas tradicionalmente dominadas por perfiles técnicos como **GitHub**, **LinkedIn** y otros espacios digitales abiertos.
 
+Sabemos que no siempre es fácil mostrarse: la falta de tiempo, el miedo al juicio, las dudas sobre el valor de lo que hacemos o las barreras institucionales muchas veces nos empujan al silencio.  
+Por eso, **Debug Colectiva no es solo un espacio técnico**: es una **red de cuidado, aprendizaje compartido y visibilidad colectiva**.
+
+Debug Colectiva apuesta por:
+- Hacer visible el trabajo que normalmente queda detrás de escena,
+- Fomentar una documentación clara y reproducible,
+- Y abrir espacios donde el conocimiento en Ciencias Sociales se comparta desde la práctica, el proceso y la experiencia real.
 ---
 
 ## 🧠 ¿Por qué “Debug”?
@@ -31,7 +42,7 @@ Debug Colectiva es para:
 - Mujeres de las **Ciencias Sociales** que trabajan con datos, programación, investigación cualitativa o cuantitativa, o que están empezando a hacerlo.  
 - Quienes quieren usar **GitHub** para documentar, compartir o publicar su trabajo, pero se han sentido fuera de lugar en espacios técnicos.  
 - Quienes dudan si su trabajo “merece” ser mostrado y necesitan un entorno donde **equivocarse sea parte del proceso**.
-- 
+  
 No necesitas saber programar “bien”.  
 Necesitas **ganas de aprender y de no hacerlo sola**.
 
@@ -39,11 +50,11 @@ Necesitas **ganas de aprender y de no hacerlo sola**.
 
 ## 🧩 Qué hacemos
 
-- Acompañamos a mujeres a **crear y fortalecer portafolios en GitHub**.  
-- Promovemos GitHub como espacio para **documentar procesos, análisis, investigaciones y proyectos sociales**, no solo código.
-- Promovemos Linkedin
-- Generamos espacios de **formación, mentoría y reflexión colectiva**.  
-- Construimos una comunidad donde **mostrar el trabajo es un acto político y de cuidado**.
+- Acompañamos a mujeres a **crear y fortalecer portafolios profesionales en GitHub, LinkedIn y otras redes**.  
+- Impulsamos el uso de **GitHub** como espacio para **documentar procesos, análisis, investigaciones y proyectos sociales**, no solo código.  
+- Promovemos **LinkedIn** como una plataforma clave para **hacer visible el trabajo profesional**, compartir aprendizajes, narrar procesos y construir redes.  
+- Generamos espacios de **formación, mentoría y reflexión colectiva**, combinando aprendizaje técnico y acompañamiento humano.  
+- Construimos una comunidad donde **mostrar el trabajo es un acto político, de cuidado y de autonomía profesional**.
 
 ---
 
@@ -88,7 +99,7 @@ Necesitas **ganas de aprender y de no hacerlo sola**.
 Este es un espacio **abierto, cuidado y sin competencia**.  
 Puedes sumarte desde donde estés y con el tiempo que tengas.
 
-📩 Escríbenos a nuestro Linkedin
+📩 Escríbenos a nuestro [Linkedin](https://www.linkedin.com/company/debug-colectiva/)
 📣 Próximamente nuestro programa para universidades públicas 
 
 ---
@@ -108,11 +119,10 @@ Agradecemos a quiénes nos acompañaron en el primer piloto y formaron parte de 
 
 ## 📚 Recursos
 
-- Guías introductorias para usar GitHub en Ciencias Sociales  
-- Repositorios abiertos creados por la comunidad  
-- Materiales de formación y acompañamiento (próximamente)
+- Guía introductoria para subir tus proyectos a GitHub
+- Guía de Networking por Ioana Gallo (próximamente)
 
 ---
 
-> 💜 *Debug Colectiva es una comunidad que aprende mostrando, duda acompañada y crece en conjunto.*  
+> 💜 *Debug Colectiva es una comunidad donde aprendemos, exploramos y mostramos nuestro trabajo juntas.*  
 > **#DebugColectiva #MujeresEnTecnología #CienciasSociales #GitHub #TecnologíaConPropósito**
